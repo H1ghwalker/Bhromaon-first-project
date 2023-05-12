@@ -1,0 +1,56 @@
+%btn-design{
+    width: 215px;
+    height: 60px;
+    background: repeating-linear-gradient(217deg, #5373fdbf, #5373fde6 99px);
+    transition: all 0.2s linear;
+}
+
+%btn-filling{
+    font-family: $font-family-aleo;
+    font-weight: 400;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+%h3-title{
+    font-family: $font-family-aleo;
+    font-size: 36px;
+    color: #fff;
+    font-weight: 400;
+}
+
+%h4-title{
+    font-family: $font-family-josefin;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+%main-text{
+    font-family: $font-family-josefin;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    color: #fff;
+    font-weight: 300;
+}
+
+%name-title{
+    text-transform: uppercase;
+    font-family: $font-family-josefin;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #fff;
+
+}
+
+%subtitle-text{
+    font-family: "Josefin Sans", serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #fff;
+    letter-spacing: 0.35em;
+}
